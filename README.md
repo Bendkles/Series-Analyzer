@@ -16,6 +16,7 @@ Build a simple program in Bash Scripting that can display some statistical prope
   g. Display the Number of elements in the series.
   h. Display the Sum of the series.
   i. Exit.
+  
 ● After choosing a correct option in the menu (validate !) a. After input of the menu option, the calculation should be done. b. The answer should be displayed. c. The menu should be displayed once again - until Exit option is chosen.
 
 Implementation:
